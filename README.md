@@ -7,5 +7,14 @@ I have attempted to create a CSS Framework to learn how the other Frameworks(lik
 
 [MyOwnCSSFramework] (https://my-own-css-framework-whst5t6fu-rezuan-ahmed-git.vercel.app)
 
+## Installation
+
+Install my-project with npm
+
+```bash
+  npm install
+  cd my-own-css-framework
+```
+
 
 
