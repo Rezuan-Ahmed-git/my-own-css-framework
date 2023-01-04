@@ -1,7 +1,7 @@
 
 # My Own CSS Framework
 
-I have attempted to create a CSS Framework to learn how the other Frameworks(like bootstrap, tailwind, etc.) work behind the scene. I am astonished to discover the power of SASS.
+I have attempted to create a CSS Framework or Library to learn how the other Frameworks(like bootstrap, tailwind, etc.) work behind the scene. I am astonished to discover the power of SASS.
 
 ## Demo live link
 
@@ -50,7 +50,7 @@ I have learnt how a css library or framework works behind the scene.
 2. Now I know how to make my CSS codes optimized.
 3. I can create my own design system for my project.
 
-I want to explore more. There are more to learn..
+I want to explore more. There is more to learn.
 
 
 
