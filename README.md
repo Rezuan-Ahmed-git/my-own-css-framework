@@ -43,6 +43,16 @@ exports.default = series(buildStyles, watchTask);
 
 ```
 
+## Lessons Learned
+
+I have learnt how a css library or framework works behind the scene. 
+1. SASS - It is on steroids. It provides superpower to CSS. We can use variables, conditionals, loops, functions, mixins etc.
+2. Now I know how to make my CSS codes optimized.
+3. I can create my own design system for my project.
+
+I want to explore more. There are more to learn..
+
+
 
 
 
